@@ -383,7 +383,7 @@ h4 {
 }
 
 .bienvenida {
-  background-image: url(../images/bg-bienvenida.jpg);
+  background-image: url(../images/bg-bienvenida.webp);
   background-position: bottom center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -446,7 +446,7 @@ h4 {
 }
 
 .servicios {
-  background-image: url(../images/bg-01.jpg);
+  background-image: url(../images/bg-servicios.webp);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -516,7 +516,7 @@ h4 {
 }
 
 .preguntas {
-  background-image: url(../images/img-preguntas.jpg);
+  background-image: url(../images/img-preguntas.webp);
   background-position: center;
   background-size: cover;
   background-color: rgba(255, 249, 242, 0.95);
@@ -547,7 +547,7 @@ h4 {
 }
 
 .contacto {
-  background-image: url(../images/bg-contacto.jpg);
+  background-image: url(../images/bg-contacto.webp);
   background-color: #555555;
   background-position: center;
   color: #fff;
